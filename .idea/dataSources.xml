@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc/yourdb" uuid="d3537278-ec84-40e6-8bbd-9214fa9558ee">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Tomcat.Resource
+
+D:/programming/egyetem/alkfejl/adatbazisokAlkFejlWeb/src/main/webapp/META-INF/context.xml</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$USER_HOME$/Desktop/Tic-Tac-Toe.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="jdbc/yourdb" uuid="80fb3ad8-c54f-4a80-8fc3-c46aa235ea2a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Tomcat.Resource
+
+D:/programming/egyetem/alkfejl/adatbazisokAlkFejlWeb/src/main/webapp/META-INF/context.xml</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:/${catalina.home}/sample.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
